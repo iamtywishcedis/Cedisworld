@@ -1,5 +1,3 @@
-index.htmlstyle.cssscript.js# Cedisworld/
-cedis-world/
 ├── index.html
 ├── README.md
 ├── css/
